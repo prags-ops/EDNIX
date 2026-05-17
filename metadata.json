@@ -1,0 +1,6 @@
+{
+  "name": "EDNIX Intelligence",
+  "description": "An adaptive AI mentor for Computer Science students featuring AI tutoring, code analysis, and mock vivas.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
